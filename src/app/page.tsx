@@ -8,7 +8,6 @@ import MyServices from "@/components/MyServices";
 import Navbar from "@/components/Navbar";
 import Portfolio from "@/components/Portfolio";
 import Pricing from "@/components/Pricing";
-import Image from "next/image";
 
 export default function Home() {
   return (
