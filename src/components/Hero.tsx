@@ -20,10 +20,10 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black opacity-50" />
       <div className="relative z-10 text-left text-white container">
         <h1 className={`text-5xl font-bold mb-4 ${ibmPlexMono.className}`}>
-          Hello, I'm John Peter Nuwagaba - Freelance Web Developer
+          Hello, I&apos;m John Peter Nuwagaba - Freelance Web Developer
         </h1>
         <p className="max-w-[1000px] mb-8 text-lg">
-          I'm a freelance web developer who crafts stunning websites that captivate and convert. My expertise lies in
+          I&apos;m a freelance web developer who crafts stunning websites that captivate and convert. My expertise lies in
           delivering visually compelling and user-friendly digital experiences that drive results.
         </p>
         <div className="flex justify-left space-x-4">

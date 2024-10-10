@@ -1,5 +1,5 @@
 import Aboutme from "@/components/Aboutme";
-import ClientTestimonials from "@/components/ClientTestimonials";
+// import ClientTestimonials from "@/components/ClientTestimonials";
 import ContactMe from "@/components/ContactMe";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";

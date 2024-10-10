@@ -32,7 +32,7 @@ export default function Aboutme() {
           </div>
           <div>
             <h2 className={`${ibmPlexMono.className} text-xl font-semibold mb-2`}>Passion</h2>
-            <p>I love turning clients' visions into reality and watching their businesses thrive online.</p>
+            <p>I love turning clients&apos; visions into reality and watching their businesses thrive online.</p>
           </div>
         </div>
       </div>

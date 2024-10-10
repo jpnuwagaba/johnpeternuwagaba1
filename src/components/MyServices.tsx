@@ -1,4 +1,3 @@
-import { Card, CardContent } from "@/components/ui/card"
 import { IBM_Plex_Mono } from "next/font/google";
 
 const ibmPlexMono = IBM_Plex_Mono({

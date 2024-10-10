@@ -63,7 +63,7 @@ export default function LetsWorkTogether() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Let's Work Together
+          Let&apos;s Work Together
         </motion.h2>
         <div className="space-y-8">
           {steps.map((step, index) => (

@@ -35,7 +35,7 @@ export default function Pricing() {
                   <div className="flex items-start flex-col">
                     <DollarSign className="w-6 h-6 mr-2 flex-shrink-0 text-white/70 mb-4" />
                     <p>
-                      I offer transparent and flexible pricing options to fit your budget and needs. Whether you're looking for a custom website or ongoing maintenance, I'll work with you to find the perfect solution.
+                      I offer transparent and flexible pricing options to fit your budget and needs. Whether you&apos;re looking for a custom website or ongoing maintenance, I&apos;ll work with you to find the perfect solution.
                     </p>
                   </div>
                 </AccordionContent>
@@ -46,7 +46,7 @@ export default function Pricing() {
                   <div className="flex items-start">
                     <Calendar className="w-6 h-6 mr-2 flex-shrink-0 text-white/70 mb-4" />
                     <p>
-                      Schedule a free consultation to discuss your project, and I'll provide you with a detailed estimate so you can plan with confidence.
+                      Schedule a free consultation to discuss your project, and I&apos;ll provide you with a detailed estimate so you can plan with confidence.
                     </p>
                   </div>
                 </AccordionContent>
